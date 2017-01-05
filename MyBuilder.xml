@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<project name="PHP_NIK_BOT" default="build">
+	<target name="build" depends="runApache">
+		<echo>Enjoy.</echo>
+	</target>
+
+	<target name="runApache">
+		<exec executable="net.exe">
+			<arg value="start" />
+			<arg value="Apache2.2" />
+		</exec>		
+	</target>
+</project>
+

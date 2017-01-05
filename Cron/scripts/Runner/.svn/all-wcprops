@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/cup/!svn/ver/54/NIK_BOT/Cron/scripts/Runner
+END
+OffRatesCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/cup/!svn/ver/54/NIK_BOT/Cron/scripts/Runner/OffRatesCache.php
+END
+DayLimitChecker.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/cup/!svn/ver/54/NIK_BOT/Cron/scripts/Runner/DayLimitChecker.php
+END
+Algorithm.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/cup/!svn/ver/54/NIK_BOT/Cron/scripts/Runner/Algorithm.php
+END

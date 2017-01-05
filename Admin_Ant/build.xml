@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<project name="NIK_BOT" default="update" basedir=".">
+	<property name="h" value="wmring.ru" />
+	<property name="u" value="wmring" />
+	<property name="p" value="12345678" />
+
+	<target name="update">
+		<sshexec host="${h}" username="${u}" password="${p}" trust="true" command="svn update /home/wmring/data/www/wmring.ru" />
+		<sshexec host="${h}" username="${u}" password="${p}" trust="true" 
+			command="chmod 775 /home/wmring/data/www/wmring.ru/Admin_Ant/script.sh 
+			       | chmod 777  /home/wmring/data/www/wmring.ru/Configs/Config.xml 
+		           | chmod 777  /home/wmring/data/www/wmring.ru/Cache/Data/*.xml
+				   | chmod 777  /home/wmring/data/www/wmring.ru/Model/log.txt"/>
+	</target>
+</project>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repos/cup/!svn/ver/16/NIK_BOT/Core/Collections
+END
+ArrayList.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/cup/!svn/ver/16/NIK_BOT/Core/Collections/ArrayList.php
+END
+IteratorImpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/cup/!svn/ver/16/NIK_BOT/Core/Collections/IteratorImpl.php
+END
+HashMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/cup/!svn/ver/16/NIK_BOT/Core/Collections/HashMap.php
+END
+IList.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/cup/!svn/ver/16/NIK_BOT/Core/Collections/IList.php
+END

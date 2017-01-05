@@ -1,0 +1,6 @@
+@CHARSET "Windows-1251";
+
+div.left{
+	float:left;
+	width: 250px;
+}

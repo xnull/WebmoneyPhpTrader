@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<chapter>
+<item>
+<date>2010-06-07</date>
+<code>036</code>
+<char3>AUD</char3>
+<size>100</size>
+<name>австралійських доларів</name>
+<rate>665.0716</rate>
+<change>-6.9001</change>
+
+</item>
+<item>
+<date>2010-06-07</date>
+<code>031</code>
+<char3>AZM</char3>
+<size>100</size>
+<name>азербайджанських манатів</name>
+<rate>985.6041</rate>
+<change>-0.6204</change>
+</item>
+
+<item>
+<date>2010-06-07</date>
+<code>826</code>
+<char3>GBP</char3>
+<size>100</size>
+<name>англійських фунтів стерлінгів</name>
+<rate>1154.5215</rate>
+<change>-8.9053</change>
+</item>
+<item>
+
+<date>2010-06-07</date>
+<code>974</code>
+<char3>BYR</char3>
+<size>10</size>
+<name>білоруських рублів</name>
+<rate>0.0263</rate>
+<change>-0.0001</change>
+</item>
+<item>
+<date>2010-06-07</date>
+
+<code>208</code>
+<char3>DKK</char3>
+<size>100</size>
+<name>датських крон</name>
+<rate>128.4052</rate>
+<change>-2.2542</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>840</code>
+
+<char3>USD</char3>
+<size>100</size>
+<name>доларів США</name>
+<rate>792.1300</rate>
+<change>-0.4</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>233</code>
+<char3>EEK</char3>
+
+<size>100</size>
+<name>естонських крон</name>
+<rate>61.0554</rate>
+<change>-1.0843</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>978</code>
+<char3>EUR</char3>
+<size>100</size>
+
+<name>ЄВРО</name>
+<rate>955.3088</rate>
+<change>-16.967</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>352</code>
+<char3>ISK</char3>
+<size>100</size>
+<name>ісландських крон</name>
+
+<rate>3.2942</rate>
+<change>-0.0585</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>398</code>
+<char3>KZT</char3>
+<size>100</size>
+<name>казахстанських тенге</name>
+<rate>5.3978</rate>
+
+<change>-0.0064</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>124</code>
+<char3>CAD</char3>
+<size>100</size>
+<name>канадських доларів</name>
+<rate>758.4826</rate>
+<change>-5.0448</change>
+
+</item>
+<item>
+<date>2010-06-07</date>
+<code>428</code>
+<char3>LVL</char3>
+<size>100</size>
+<name>латвійських латів</name>
+<rate>1348.5443</rate>
+<change>-23.7575</change>
+</item>
+
+<item>
+<date>2010-06-07</date>
+<code>440</code>
+<char3>LTL</char3>
+<size>100</size>
+<name>литовських літів</name>
+<rate>276.6765</rate>
+<change>-4.914</change>
+</item>
+<item>
+
+<date>2010-06-07</date>
+<code>498</code>
+<char3>MDL</char3>
+<size>100</size>
+<name>молдовських леїв</name>
+<rate>61.1858</rate>
+<change>-0.0697</change>
+</item>
+<item>
+<date>2010-06-07</date>
+
+<code>578</code>
+<char3>NOK</char3>
+<size>100</size>
+<name>норвезьких крон</name>
+<rate>121.6799</rate>
+<change>-1.925</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>985</code>
+
+<char3>PLN</char3>
+<size>100</size>
+<name>польських злотих</name>
+<rate>227.7256</rate>
+<change>-11.1335</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>643</code>
+<char3>RUB</char3>
+
+<size>10</size>
+<name>російських рублів</name>
+<rate>2.5496</rate>
+<change>-0.0157</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>702</code>
+<char3>SGD</char3>
+<size>100</size>
+
+<name>сінгапурських доларів</name>
+<rate>562.1117</rate>
+<change>-2.41</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>960</code>
+<char3>XDR</char3>
+<size>100</size>
+<name>СПЗ</name>
+
+<rate>1157.9832</rate>
+<change>-3.2891</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>792</code>
+<char3>TRL</char3>
+<size>100</size>
+<name>турецьких лір</name>
+<rate>496.8321</rate>
+
+<change>-6.4944</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>795</code>
+<char3>TMM</char3>
+<size>100</size>
+<name>туркменських манатів</name>
+<rate>277.9404</rate>
+<change>-0.1403</change>
+
+</item>
+<item>
+<date>2010-06-07</date>
+<code>348</code>
+<char3>HUF</char3>
+<size>1000</size>
+<name>угорських форинтів</name>
+<rate>33.0786</rate>
+<change>-2.2512</change>
+</item>
+
+<item>
+<date>2010-06-07</date>
+<code>860</code>
+<char3>UZS</char3>
+<size>100</size>
+<name>узбецьких сумів</name>
+<rate>0.5006</rate>
+<change>-0.0003</change>
+</item>
+<item>
+
+<date>2010-06-07</date>
+<code>203</code>
+<char3>CZK</char3>
+<size>100</size>
+<name>чеських крон</name>
+<rate>36.6651</rate>
+<change>-1.0932</change>
+</item>
+<item>
+<date>2010-06-07</date>
+
+<code>752</code>
+<char3>SEK</char3>
+<size>100</size>
+<name>шведських крон</name>
+<rate>100.0376</rate>
+<change>-2.0815</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>756</code>
+
+<char3>CHF</char3>
+<size>100</size>
+<name>швейцарських франків</name>
+<rate>684.7601</rate>
+<change>-2.4092</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>156</code>
+<char3>CNY</char3>
+
+<size>100</size>
+<name>юанів женьміньбі (Китай)</name>
+<rate>115.9989</rate>
+<change>-0.0688</change>
+</item>
+<item>
+<date>2010-06-07</date>
+<code>392</code>
+<char3>JPY</char3>
+<size>1000</size>
+
+<name>японських єн</name>
+<rate>85.5015</rate>
+<change>0.0192</change>
+</item>
+</chapter>

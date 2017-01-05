@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays
+END
+PayState.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/PayState.php
+END
+Description.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/Description.txt
+END
+ListMyPays.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/ListMyPays.php
+END
+MyPay.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/MyPay.php
+END
+BidType.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/BidType.php
+END
+RetvalCodes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/RetvalCodes.txt
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/Factory.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/cup/!svn/ver/16/NIK_BOT/Exchanger/ListMyPays/Request.php
+END

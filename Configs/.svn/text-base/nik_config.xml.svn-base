@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="Windows-1251"?>
+<root>
+	<Net>
+		<Proxy useProxy="yes" ip="172.18.120.6:8080" port="" user="pec_va" pass="5c6c3i0e"/>
+	</Net>
+	<Cron running="true"/>
+	<WMIDS>
+		<WMID384986898423 wmid="384986898423" authType="Classic" pass="123123123" kwm="gQABAHMyuIoa6KjiCOwkWn2PtwWMAAAAAAAAAEIADTHOJ6kOA5igGmGf/YGAD0wwrz8D9ud0hyXK+RxyCjfgpBt28dQJT18sbVEC/zovkuC5gk5y7MefpsprNo/ArQmjrrmffUEB4xNc1rYRC8hhx/ivZ1i7rE13IYnay9KFyNRc+4VOmd0r/6sBpsSXzEm9DafYk4IllHI0qA/DEqA/VZXtAFw=">
+			<Purses WMR="R114423165162" WMZ="Z413138348810"/>
+		</WMID384986898423>
+	</WMIDS>
+	<DataBase server="localhost" user="wmring" pass="ring565656" dbname="ring">
+		
+	</DataBase>
+
+	<Exchanges>
+	<!--  + -->
+		<WMZ_WMR WMsource="WMZ" WMdest="WMR" exchType="1">
+			<OfficalRates bank="CBR" currencyName="USD" rateType="forward">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="131" maxSumm="31" minSumm="0.99" myPersent="0" run="true">
+			</Settings>
+		</WMZ_WMR>		
+		<WMR_WMZ WMsource="WMR" WMdest="WMZ" exchType="2">
+			<OfficalRates bank="CBR" currencyName="USD" rateType="forward">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="34" minSumm="29" myPersent="-2" run="true">
+			</Settings>
+		</WMR_WMZ>
+		
+		<!--  + -->
+		<WMZ_WME WMsource="WMZ" WMdest="WME" exchType="3">
+			<OfficalRates bank="EURUSD" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="102" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMZ_WME>
+		<WME_WMZ WMsource="WME" WMdest="WMZ" exchType="4">
+			<OfficalRates bank="EURUSD" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="102" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WME_WMZ>
+		
+		<!--  + -->
+		<WME_WMR WMsource="WME" WMdest="WMR" exchType="5">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WME_WMR>
+		<WMR_WME WMsource="WMR" WMdest="WME" exchType="6">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMR_WME>
+		
+		<!-- + -->
+		<WMZ_WMU WMsource="WMZ" WMdest="WMU" exchType="7">
+			<OfficalRates bank="NBU" currencyName="USD">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMZ_WMU>
+		<WMU_WMZ WMsource="WMU" WMdest="WMZ" exchType="8">
+			<OfficalRates bank="NBU" currencyName="USD" rateType="forward">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMU_WMZ>
+		
+		<!-- + -->
+		<WMR_WMU WMsource="WMR" WMdest="WMU" exchType="9">
+			<OfficalRates bank="CBR" currencyName="UAH">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMR_WMU>
+		<WMU_WMR WMsource="WMU" WMdest="WMR" exchType="10">
+			<OfficalRates bank="CBR" currencyName="UAH">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMU_WMR>
+		
+		<!-- + -->
+		<WMU_WME WMsource="WMU" WMdest="WME" exchType="11">
+			<OfficalRates bank="NBU" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMU_WME>
+		<WME_WMU WMsource="WME" WMdest="WMU" exchType="12">
+			<OfficalRates bank="NBU" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WME_WMU>		
+		
+		<!-- + -->
+		<WMB_WMZ WMsource="WMB" WMdest="WMZ" exchType="17">
+			<OfficalRates bank="NBRB" currencyName="USD">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMB_WMZ>
+		<WMZ_WMB WMsource="WMZ" WMdest="WMB" exchType="18">
+			<OfficalRates bank="NBRB" currencyName="USD">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMZ_WMB>
+		
+		<!-- + -->
+		<WMB_WME WMsource="WMB" WMdest="WME" exchType="19">
+			<OfficalRates bank="NBRB" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMB_WME>
+		<WME_WMB WMsource="WME" WMdest="WMB" exchType="20">
+			<OfficalRates bank="NBRB" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WME_WMB>		
+		
+		<!-- + -->
+		<WMR_WMB WMsource="WMR" WMdest="WMB" exchType="23">
+			<OfficalRates bank="CBR" currencyName="BYR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMR_WMB>
+		<WMB_WMR WMsource="WMB" WMdest="WMR" exchType="24">
+			<OfficalRates bank="CBR" currencyName="BYR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMB_WMR>
+		
+		<!-- - -->
+		<WMZ_WMG WMsource="WMZ" WMdest="WMG" exchType="25">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMZ_WMG>
+		<WMG_WMZ WMsource="WMG" WMdest="WMZ" exchType="26">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="true">
+			</Settings>
+		</WMG_WMZ>
+		
+		<WME_WMG WMsource="WME" WMdest="WMG" exchType="27">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="false">
+			</Settings>
+		</WME_WMG>
+		<WMG_WME WMsource="WMG" WMdest="WME" exchType="28">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="false">
+			</Settings>
+		</WMG_WME>
+		
+		<WMR_WMG WMsource="WMR" WMdest="WMG" exchType="29">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="false">
+			</Settings>
+		</WMR_WMG>
+		<WMG_WMR WMsource="WMG" WMdest="WMR" exchType="30">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="false">
+			</Settings>
+		</WMG_WMR>
+		
+		<WMU_WMG WMsource="WMU" WMdest="WMG" exchType="31">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="false">
+			</Settings>
+		</WMU_WMG>
+		<WMG_WMU WMsource="WMG" WMdest="WMU" exchType="32">
+			<OfficalRates bank="CBR" currencyName="EUR">
+			</OfficalRates>
+			<Settings wmid="384986898423" dayLimit="100" maxSumm="15" minSumm="5" myPersent="1" run="false">
+			</Settings>
+		</WMG_WMU>
+	</Exchanges>
+</root>

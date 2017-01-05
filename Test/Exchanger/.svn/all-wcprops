@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger
+END
+CalculatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger/CalculatorTest.php
+END
+ListMyPaysTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger/ListMyPaysTest.php
+END
+ExchangesListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger/ExchangesListTest.php
+END
+ExchangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger/ExchangeTest.php
+END
+NewPayTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger/NewPayTest.php
+END
+ListMyPaysRequestTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger/ListMyPaysRequestTest.php
+END
+OrderListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/cup/!svn/ver/16/NIK_BOT/Test/Exchanger/OrderListTest.php
+END

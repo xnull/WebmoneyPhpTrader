@@ -1,0 +1,1 @@
+http://wiki.agiledev.ru/doku.php?id=tdd:mocks_and_simple_test - mock â sipletest

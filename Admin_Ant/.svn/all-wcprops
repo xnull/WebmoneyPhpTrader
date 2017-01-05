@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/repos/cup/!svn/ver/71/NIK_BOT/Admin_Ant
+END
+script.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/cup/!svn/ver/70/NIK_BOT/Admin_Ant/script.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repos/cup/!svn/ver/71/NIK_BOT/Admin_Ant/build.xml
+END
