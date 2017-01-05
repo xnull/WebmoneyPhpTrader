@@ -1,3 +1,0 @@
-*/5 * * * * /usr/local/bin/php -f $HOME/www/wmring.ru/Boter/Cron/scripts/Runner/OffRatesCache.php # получение курсов ЦБ в кэш
-* * * * *  /usr/local/bin/php -f $HOME/www/wmring.ru/Boter/Cron/scripts/Runner/Algorithm.php     # запуск основного алгоритма
-0 0 * * *  /usr/local/bin/php -f $HOME/www/wmring.ru/Boter/Cron/scripts/Runner/DayLimitChecker.php     # обнуление дневного остатка, раз в сутки
